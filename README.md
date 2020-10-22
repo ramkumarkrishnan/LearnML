@@ -1,2 +1,2 @@
-# stanford-ml
+# LearnML
 Stanford ML Course
